@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Apr 08 19:50:52 2023
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : exp1
+Top-level Entity Name : full_adder_4
+Family : Cyclone III
+Total logic elements : 17
+    Total combinational functions : 17
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 22
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

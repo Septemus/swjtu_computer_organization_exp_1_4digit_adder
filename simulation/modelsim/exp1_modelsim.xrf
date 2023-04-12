@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Computer_Organization/exp1_4digit_adder/half_adder.v
+source_file = 1, C:/Computer_Organization/exp1_4digit_adder/full_adder.v
+source_file = 1, C:/Computer_Organization/exp1_4digit_adder/db/exp1.cbx.xml
+design_name = full_adder
+instance = comp, \s~output\, s~output, full_adder, 1
+instance = comp, \c1~output\, c1~output, full_adder, 1
+instance = comp, \a~input\, a~input, full_adder, 1
+instance = comp, \c0~input\, c0~input, full_adder, 1
+instance = comp, \b~input\, b~input, full_adder, 1
+instance = comp, \ha2|s~0\, ha2|s~0, full_adder, 1
+instance = comp, \c1~0\, c1~0, full_adder, 1

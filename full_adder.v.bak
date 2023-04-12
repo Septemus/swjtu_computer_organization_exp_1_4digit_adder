@@ -1,0 +1,12 @@
+module full_adder(a,b,c0,s,c1);
+	input a,b,c0;
+	output reg s,c1;
+	reg tmp1,tmp2,tmp3;
+	always@(a,b,c0)
+	begin
+		half_adder ha1(a,b,tmp1,tmp2);
+		half_adder ha2(tmp1,c0,s,tmp3);
+		c1<=tmp2|tmp3;
+	end
+endmodule
+

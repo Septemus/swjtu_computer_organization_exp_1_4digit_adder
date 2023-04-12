@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Computer_Organization\exp1_4digit_adder\simulation\qsim
+vfull_adder
+Z1 I@H`FQ;l^Eo]Qfom8c]9HN0
+Z2 V>d0=jGi:OHm^;YT2]Cfa^3
+Z3 dC:\Computer_Organization\exp1_4digit_adder\simulation\qsim
+Z4 w1680752373
+Z5 8exp1.vo
+Z6 Fexp1.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 BVBUkWNSB[RcHm7XjWd9f0
+Z10 !s108 1680752374.353000
+Z11 !s107 exp1.vo|
+Z12 !s90 -work|work|exp1.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_4
+Z13 !s100 XCULeGN>af2XT0khklBkM1
+Z14 IO:Cd1E0d?hL4FRA:E0W>=0
+Z15 VNYlhJg_MB?:bN3o?TQ<Ja1
+R3
+Z16 w1680923014
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+!i10b 1
+!s85 0
+Z17 !s108 1680923015.216000
+R11
+!s101 -O0
+vfull_adder_4_vlg_check_tst
+!i10b 1
+Z18 !s100 Q@T8W:0^YbN;1OLFZaDF80
+Z19 IS=Z_0YT?VnBR][WLjf0^c0
+Z20 VojG?jmdnTRC3mU9QnWZU30
+R3
+Z21 w1680923013
+Z22 8exp1.vwf.vt
+Z23 Fexp1.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z24 !s108 1680923015.294000
+Z25 !s107 exp1.vwf.vt|
+Z26 !s90 -work|work|exp1.vwf.vt|
+!s101 -O0
+R8
+vfull_adder_4_vlg_sample_tst
+!i10b 1
+Z27 !s100 m5;llS0m?PRTT5EVh9Yl@3
+Z28 IGjEdc;<;Z][YX08lXfE<[1
+Z29 Vb7znVImfGUhg7<kkd]mK70
+R3
+R21
+R22
+R23
+L0 29
+R7
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+R8
+vfull_adder_4_vlg_vec_tst
+!i10b 1
+Z30 !s100 3gPl:PCVH9OAAa7PV6jVo0
+Z31 ID?WJYFn^34DzS2Ph]D=962
+Z32 V@E^OBeMDn9kn[72A14V`m3
+R3
+R21
+R22
+R23
+Z33 L0 388
+R7
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+R8
+vfull_adder_vlg_check_tst
+Z34 IaDDZP6m3^D9eKhAdYEL>]2
+Z35 VakGdlkgNR9?R84BXff^O82
+R3
+Z36 w1680752371
+R22
+R23
+L0 61
+R7
+r1
+31
+Z37 !s108 1680752374.465000
+Z38 !s107 exp1.vwf.vt|
+R26
+R8
+Z39 !s100 XWWQ3fAb0bV_D]Y4ZYNZY1
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_vlg_sample_tst
+Z40 I_:eWV>UbE4SG1Bg5H1P7m3
+Z41 V0023>AjFAGPd?@:W<GjC70
+R3
+R36
+R22
+R23
+L0 29
+R7
+r1
+31
+R37
+R38
+R26
+R8
+Z42 !s100 P>3REIi_139Z^GOnMlaF=2
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_vlg_vec_tst
+Z43 IQ4^`0TjIcFo:A1MINS;j=3
+Z44 VYcA9o=ef0RHic;;ZJODc61
+R3
+R36
+R22
+R23
+Z45 L0 183
+R7
+r1
+31
+R37
+R38
+R26
+R8
+Z46 !s100 Enhjn@6e8[MjG2jnz:ES<0
+!i10b 1
+!s85 0
+!s101 -O0
